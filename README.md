@@ -1,29 +1,9 @@
-# conversor
+# Conversor de moedas com Vue JS
 
-## Project setup
-```
-npm install
-```
+## Fonte
+Programador BR - Youtube
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Inicio
+23/09/2019
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
